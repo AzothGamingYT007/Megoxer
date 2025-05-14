@@ -1,0 +1,4 @@
+{
+  "bot_token": "7519401684:AAE7nPATkrgnSKJ1srfCzs15uXiEHm-c0Oc",
+  "admin_ids": ["6258597033"]
+}
